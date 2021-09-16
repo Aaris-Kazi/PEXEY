@@ -5,3 +5,15 @@
 <span style = "font-size: 30px"> IMPORTANT</span>
 
 <span>Please keep the icon file along with the exe file before executing the app</span>
+
+# How to run
+<img src = https://github.com/Aaris-Kazi/PEXEY/blob/main/snapshots/run.gif>
+<span style = "font-size: 30px"> It's a simple click like other exe files</span>
+
+# Steps to convert in EXE
+<img src = https://github.com/Aaris-Kazi/PEXEY/blob/main/snapshots/compile.gif>
+<span style = "font-size: 30px"> It's a simple click like other exe files</span>
+
+# Final Output
+<img src = https://github.com/Aaris-Kazi/PEXEY/blob/main/snapshots/exe.gif>
+<span style = "font-size: 30px"> It's a simple click like other exe files</span>
