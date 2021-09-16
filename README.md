@@ -12,6 +12,7 @@
 
 # Steps to convert in EXE
 <img src = https://github.com/Aaris-Kazi/PEXEY/blob/main/snapshots/compile.gif>
+
 <span style = "font-size: 30px"> SELECT your .py file can be GUI or CLI</span>
 
 <span style = "font-size: 30px"> SELECT .ico file for your LOGO(OPTIONAL)</span>
