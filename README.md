@@ -12,8 +12,12 @@
 
 # Steps to convert in EXE
 <img src = https://github.com/Aaris-Kazi/PEXEY/blob/main/snapshots/compile.gif>
-<span style = "font-size: 30px"> It's a simple click like other exe files</span>
+<span style = "font-size: 30px"> SELECT your .py file can be GUI or CLI</span>
+
+<span style = "font-size: 30px"> SELECT .ico file for your LOGO(OPTIONAL)</span>
+
+<span style = "font-size: 30px"> Try to run to make sure it's a correct file</span>
 
 # Final Output
 <img src = https://github.com/Aaris-Kazi/PEXEY/blob/main/snapshots/exe.gif>
-<span style = "font-size: 30px"> It's a simple click like other exe files</span>
+<span style = "font-size: 30px"> As you pressed to convert it will create .exe file in your selected directory</span>
